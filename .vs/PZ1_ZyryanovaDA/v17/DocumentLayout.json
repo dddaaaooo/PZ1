@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|c:\\users\\hwaya\\source\\repos\\pz1_zyryanovada\\pz1_zyryanovada\\pages\\admmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|solutionrelative:pz1_zyryanovada\\pages\\admmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|c:\\users\\hwaya\\source\\repos\\pz1_zyryanovada\\pz1_zyryanovada\\pages\\admmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|solutionrelative:pz1_zyryanovada\\pages\\admmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|c:\\users\\hwaya\\source\\repos\\pz1_zyryanovada\\pz1_zyryanovada\\pages\\autho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|solutionrelative:pz1_zyryanovada\\pages\\autho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|c:\\users\\hwaya\\source\\repos\\pz1_zyryanovada\\pz1_zyryanovada\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|solutionrelative:pz1_zyryanovada\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|c:\\users\\hwaya\\source\\repos\\pz1_zyryanovada\\pz1_zyryanovada\\hashpasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925E554-2A92-4C0A-A571-5ED4B4A06B6B}|PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA.csproj|solutionrelative:pz1_zyryanovada\\hashpasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdmMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\Pages\\AdmMenu.xaml.cs",
+              "RelativeDocumentMoniker": "PZ1_ZyryanovaDA\\Pages\\AdmMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\Pages\\AdmMenu.xaml.cs",
+              "RelativeToolTip": "PZ1_ZyryanovaDA\\Pages\\AdmMenu.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:47:56.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdmMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\Pages\\AdmMenu.xaml",
+              "RelativeDocumentMoniker": "PZ1_ZyryanovaDA\\Pages\\AdmMenu.xaml",
+              "ToolTip": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\Pages\\AdmMenu.xaml",
+              "RelativeToolTip": "PZ1_ZyryanovaDA\\Pages\\AdmMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T17:37:01.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autho.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\Pages\\Autho.xaml.cs",
+              "RelativeDocumentMoniker": "PZ1_ZyryanovaDA\\Pages\\Autho.xaml.cs",
+              "ToolTip": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\Pages\\Autho.xaml.cs",
+              "RelativeToolTip": "PZ1_ZyryanovaDA\\Pages\\Autho.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:21:02.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HashPasswords.cs",
+              "DocumentMoniker": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\HashPasswords.cs",
+              "RelativeDocumentMoniker": "PZ1_ZyryanovaDA\\HashPasswords.cs",
+              "ToolTip": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\HashPasswords.cs",
+              "RelativeToolTip": "PZ1_ZyryanovaDA\\HashPasswords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:58:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PZ1_ZyryanovaDA\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hwaya\\source\\repos\\PZ1_ZyryanovaDA\\PZ1_ZyryanovaDA\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PZ1_ZyryanovaDA\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:48:49.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
